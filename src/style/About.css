@@ -1,0 +1,47 @@
+.About {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    /* background-color: rgb(205, 210, 214); */
+    background-size: cover;
+
+}
+.intro-box
+{
+    padding-left:15rem;
+    padding-top: 5rem;
+    color: rgb(66, 128, 179);
+    font-size: 13pt;
+    width: 25rem;
+}
+.intro{
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: serif;
+
+}
+
+.imag-box {
+    box-shadow: 10rem;
+    
+}
+
+.img {
+    width: 25rem;
+    height: 35rem;
+    padding-left: 5rem;
+    padding-top: 1rem;
+    border-radius: 5rem;
+
+
+}
+.Hire-btn
+{
+    width: 12rem;
+    height: 2.5rem;
+    border-style: none;
+    border-radius: .5rem;
+    background-color: rgb(66, 128, 179);
+    color: white;
+    margin-top: 1rem;
+}

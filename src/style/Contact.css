@@ -1,0 +1,67 @@
+.contact-card {
+    background-color: rgb(73, 173, 212);
+    width: 100%;
+    height: 639px;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+.contact-sub-card {
+
+    width: 90%;
+    height: 35rem;
+    background-color: rgb(73, 73, 138);
+    border-radius: 1rem;
+    padding-left: 5rem;
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+
+.contact-box {
+
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+margin-top: 4rem;
+    color: white;
+}
+
+.contact-detail {
+
+
+    width: 30px;
+    height: 30px;
+    margin-top: 2rem;
+  
+
+}
+
+.socail-contact {
+    display: flex;
+    justify-content: flex-start;
+    width: 30%;
+    margin-top: 1rem;
+}
+
+.socail-icon {
+    width: 50px;
+    height: 50px;
+    padding: 1rem;
+}
+
+.form {
+    width: 30%;
+    height: 26rem;
+    background-color: white;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-around;
+   
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
